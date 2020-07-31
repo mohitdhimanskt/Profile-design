@@ -16,7 +16,7 @@ body{
     
     display: flex;
     flex-direction: column;
-    background-image: url("nature-3048299__340.jpg");
+    background-image: url("file:///C:/Users/mohit/Downloads/nature-3048299__340.webp");
 	background-repeat: no-repeat;
 	background-size: cover;
 	border-radius: 5px;
@@ -39,6 +39,11 @@ h4{
 	font-weight: 100;
 	font-size: 12px;
 	margin: 0;
+}
+p{
+    font-weight:300px;
+    letter-spacing: 1px;
+    margin: -13px 0 10px;
 }
 ul{
    background-color: #fff;
